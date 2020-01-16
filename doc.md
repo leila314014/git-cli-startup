@@ -22,3 +22,20 @@ Hello ***markdown*** 斜體 + 粗體
 ---
 
 Helllo `markdown`
+
+```
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+```
+
+```python
+def hello():
+    print('Hello World')
+
+hello()
+```
