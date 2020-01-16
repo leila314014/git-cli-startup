@@ -42,4 +42,4 @@ hello()
 
 ---
 
-![](.ntub.jfif)
+![](./ntub.png)
