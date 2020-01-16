@@ -12,3 +12,13 @@ Hello *markdown* 斜體
 Hello **markdown** 租體  
 Hello ~~markdown~~ 刪除線  
 Hello ***markdown*** 斜體 + 粗體  
+
+---
+
+<https://google.com>
+
+[Google](https://google.com)
+
+---
+
+Helllo `markdown`
